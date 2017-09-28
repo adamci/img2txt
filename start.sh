@@ -1,2 +1,2 @@
 #! /bin/bash
-docker start -ai auto-caption
+docker start -ai img2txt
