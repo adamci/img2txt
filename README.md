@@ -12,6 +12,7 @@ Street View House Numbers (SVHN) [dataset](http://ufldl.stanford.edu/housenumber
 1. Run `./setup.sh` to create the docker container
 2. Run `./start.sh` to start the docker container
 3. Copy the outputted localhost path from the terminal and paste it in your browser
+4. Navigate to the `/src` folder to see the source code
 
 Notice that with this Docker configuration, datasets are only stored in the container whereas source files are accessible from
 both the container and its host.
